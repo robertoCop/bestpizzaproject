@@ -1,0 +1,6 @@
+com\bestpizzafacades\FacadesConfigurationProperties.class
+com\bestpizzafacades\FacadesConfiguration.class
+com\bestpizzafacades\SearchPizzaFacade.class
+com\bestpizzafacades\DefaultSeachPizzasFacade.class
+FacadesApplication.class
+META-INF\spring-configuration-metadata.json

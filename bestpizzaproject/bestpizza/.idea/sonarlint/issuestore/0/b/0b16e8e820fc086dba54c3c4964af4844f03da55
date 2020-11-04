@@ -1,0 +1,10 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal "pizzas" 3 times.(α™ιδ
+7
+java:S1116"Remove this empty statement.(©¥‰Ρϋÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(©—ήϊÿÿÿÿ
+G
+java:S1602"",Remove useless curly braces around statement(Λ—£ώÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ξ”οÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Μ‡ƒϋÿÿÿÿ
